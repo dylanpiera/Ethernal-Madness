@@ -1,8 +1,8 @@
 # Changelog
-######registry:
-######+ new addition
-######- removed
-######= notes 
+>registry:
+>+ + new addition
+>- - removed
+>+ = notes 
 
 #Dev 1.0
 
