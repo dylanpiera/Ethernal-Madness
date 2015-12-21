@@ -85,6 +85,8 @@ MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
 [022]
+# Perun Town
+SnapEdges=true
 Bicycle=true
 Outdoor=true
 ShowArea=true
